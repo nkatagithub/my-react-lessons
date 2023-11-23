@@ -1,0 +1,12 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: linear-gradient(to right, rgb(177, 178, 189), rgb(165, 168, 14));
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
